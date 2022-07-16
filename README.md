@@ -38,4 +38,4 @@ quasar build
 ```
 
 ### License
-[License MIT](LICENSE.md)
+[License MIT](LICENSE)
