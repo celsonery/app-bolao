@@ -9,6 +9,10 @@
 
 Projeto criado para a Copa do Mundo de 2022 no Qatar.
 
+> Este projeto se trata somente do Frontend e necessita de uma API externa como Backend.
+
+[API Bolão](https://github.com/celsonery/api-bolao)
+
 ## Instalação das dependências
 ```bash
 yarn
@@ -28,7 +32,7 @@ yarn lint
 npm run lint
 ```
 
-### Colocando a aplicação em produção.
+### Gerando o Build para colocar a aplicação em produção.
 ```bash
 quasar build
 ```
