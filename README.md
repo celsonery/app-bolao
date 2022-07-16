@@ -1,5 +1,4 @@
-[![build status](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml/badge.svg?branch=main)](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml)
-
+![build status](https://img.shields.io/github/workflow/status/celsonery/app-bolao/App-Bolao-CI/main)
 ![issues](https://img.shields.io/github/issues/celsonery/app-bolao)
 ![forks](https://img.shields.io/github/forks/celsonery/app-bolao)
 ![stars](https://img.shields.io/github/stars/celsonery/app-bolao)
