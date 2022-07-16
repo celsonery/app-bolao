@@ -3,37 +3,35 @@
 ![forks](https://img.shields.io/github/forks/celsonery/app-bolao)
 ![stars](https://img.shields.io/github/stars/celsonery/app-bolao)
 ![license](https://img.shields.io/github/license/celsonery/app-bolao)
+![version](https://img.shields.io/github/package-json/v/celsonery/app-bolao)
 
-# Quasar App (app-quasar)
+# Free Bolão
 
-A Quasar Project
+Projeto criado para a Copa do Mundo de 2022 no Qatar.
 
-## Install the dependencies
+## Instalação das dependências
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciando em modo de desenvolvimento.
 ```bash
 quasar dev
 ```
 
-
-### Lint the files
+### Verificando a qualidade da codificação com ESLint.
 ```bash
 yarn lint
 # or
 npm run lint
 ```
 
-
-
-### Build the app for production
+### Colocando a aplicação em produção.
 ```bash
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+### License
+[License MIT](LICENSE.md)
