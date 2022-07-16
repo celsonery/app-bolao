@@ -1,6 +1,6 @@
 [![build status](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml/badge.svg?branch=main)](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml)
 
-[![Build status](https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true)]
+![Build status](https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true)
 
   <img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status">
   <img src="https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true" alt="Coverage Status">
