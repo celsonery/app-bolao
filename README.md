@@ -1,17 +1,13 @@
-<div align=center>
 ![build status](https://img.shields.io/github/workflow/status/celsonery/app-bolao/App-Bolao-CI/main)
 ![issues](https://img.shields.io/github/issues/celsonery/app-bolao)
 ![forks](https://img.shields.io/github/forks/celsonery/app-bolao)
 ![stars](https://img.shields.io/github/stars/celsonery/app-bolao)
 ![license](https://img.shields.io/github/license/celsonery/app-bolao)
 ![version](https://img.shields.io/github/package-json/v/celsonery/app-bolao)
-</div>
 
-<div align=center>
 [![GitHub followers](https://img.shields.io/github/followers/celsonery?style=social)](https://github.com/celsonery)
 [![Twitter Follow](https://img.shields.io/twitter/follow/celsonery?style=social)](https://twitter.com/celsonery)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonery)
-</div>
 
 # Free Bolão
 
