@@ -4,6 +4,9 @@
 ![stars](https://img.shields.io/github/stars/celsonery/app-bolao)
 ![license](https://img.shields.io/github/license/celsonery/app-bolao)
 ![version](https://img.shields.io/github/package-json/v/celsonery/app-bolao)
+![GitHub followers](https://img.shields.io/github/followers/celsonery?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/celsonery?style=social)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonery)
 
 # Free Bolão
 
