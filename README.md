@@ -5,10 +5,6 @@
 ![license](https://img.shields.io/github/license/celsonery/app-bolao)
 ![version](https://img.shields.io/github/package-json/v/celsonery/app-bolao)
 
-[![GitHub followers](https://img.shields.io/github/followers/celsonery?style=social)](https://github.com/celsonery)
-[![Twitter Follow](https://img.shields.io/twitter/follow/celsonery?style=social)](https://twitter.com/celsonery)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonery)
-
 # Free Bolão
 
 Projeto criado para a Copa do Mundo de 2022 no Qatar.
@@ -40,6 +36,12 @@ npm run lint
 ```bash
 quasar build
 ```
+
+### Minhas redes
+[![GitHub followers](https://img.shields.io/github/followers/celsonery?style=social)](https://github.com/celsonery)
+[![Twitter Follow](https://img.shields.io/twitter/follow/celsonery?style=social)](https://twitter.com/celsonery)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonery)
+
 
 ### License
 [License MIT](LICENSE)
