@@ -1,6 +1,8 @@
 Workflows
 ![](https://github.com/celsonery/app-bolao/workflows/app-bolao/badge.svg)
 
+[![build status](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml/badge.svg?branch=main)](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml)
+
 # Quasar App (app-quasar)
 
 
