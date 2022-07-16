@@ -1,4 +1,7 @@
+![](https://github.com/celsonery/app-bolao/workflows/integrations/badge.svg)
+
 # Quasar App (app-quasar)
+
 
 A Quasar Project
 
