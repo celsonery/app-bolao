@@ -40,7 +40,7 @@ quasar build
 ### Minhas redes
 [![GitHub followers](https://img.shields.io/github/followers/celsonery?style=social)](https://github.com/celsonery)
 [![Twitter Follow](https://img.shields.io/twitter/follow/celsonery?label=Seguir&style=social)](https://twitter.com/celsonery)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsonery)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin)](https://www.linkedin.com/in/celsonery)
 
 
 ### License
