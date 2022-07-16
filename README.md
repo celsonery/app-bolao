@@ -1,16 +1,11 @@
 [![build status](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml/badge.svg?branch=main)](https://github.com/celsonery/app-bolao/actions/workflows/app-bolao.yml)
 
-![Build status](https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true)
+![issues](https://img.shields.io/github/issues/celsonery/app-bolao)
+![forks](https://img.shields.io/github/forks/celsonery/app-bolao)
+![stars](https://img.shields.io/github/stars/celsonery/app-bolao)
+![license](https://img.shields.io/github/license/celsonery/app-bolao)
 
-  <img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status">
-  <img src="https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true" alt="Coverage Status">
-  <img src="https://img.shields.io/npm/dm/vue.svg?sanitize=true" alt="Downloads">
-  <img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version">
-  <img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License">
-  <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat">
-  
 # Quasar App (app-quasar)
-
 
 A Quasar Project
 
